@@ -1458,7 +1458,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player2DController
   moveSpeed: 5
-  sonarRadius: 2.5
+  sonarRadius: 1.5
   sonarDuration: 0.25
 --- !u!114 &401725315
 MonoBehaviour:
